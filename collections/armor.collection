@@ -1,0 +1,182 @@
+{
+	"name": "armor",
+	"title": "Cosmetic Armor",
+	"type": "item",
+	
+	"collectables": {
+	//LEGENDARY
+	//Hats
+		"bearhead": {
+			"order": 1,
+			"item": "bearhead"
+		},
+		"bevhead": {
+			"order":2,
+			"item": "bevhead"
+		},
+		"bunnyhead":{
+			"order": 3,
+			"item": "bunnyhead"
+		},
+		"caphead":{
+			"order": 4,
+			"item": "caphead"
+		},
+		"captainshead":{
+			"order": 5,
+			"item": "captainshead"
+		},
+		"hobohead":{
+			"order": 6,
+			"item": "hobohead"
+		},
+		"glasses1head": {
+			"order": 7,
+			"item": "glasses1head"
+		},
+		"clocktophathead": {
+			"order": 8,
+			"item": "clocktophathead"
+		},
+		"fedorahead": {
+			"order": 9,
+			"item": "fedorahead"
+		},
+		"featherhead": {
+			"order": 10,
+			"item": "featherhead"
+		},
+		"gasmaskhead": {
+			"order": 11,
+			"item": "gasmaskhead"
+		},
+		"gagnosehead": {
+			"order": 12,
+			"item": "gagnosehead"
+		},
+		"greenfingerhead": {
+			"order": 13,
+			"item": "greenfingerhead"
+		},
+		"devhead": {
+			"order": 14,
+			"item": "devhead"
+		},
+		"herocaphead": {
+			"order": 15,
+			"item": "herocaphead"
+		},
+		"kathoodhead": {
+			"order": 16,
+			"item": "kathoodhead"
+		},
+		"horsehead": {
+			"order": 17,
+			"item": "horsehead"
+		},
+		"glasses4head": {
+			"order": 18,
+			"item": "glasses4head"
+		},
+		"industrialcrewhead": {
+			"order": 19,
+			"item": "industrialcrewhead"
+		},
+		"kittyhead": {
+			"order": 20,
+			"item": "kittyhead"
+		},
+		"luchadorhead": {
+			"order": 21,
+			"item": "luchadorhead"
+		},
+		"mechpilothead": {
+			"order": 22,
+			"item": "mechpilothead"
+		},
+		"glasses2head": {
+			"order": 23,
+			"item": "glasses2head"
+		},
+		"phrygiancaphead": {
+			"order": 24,
+			"item": "phrygiancaphead"
+		},
+		"plainhoodhead": {
+			"order": 25,
+			"item": "plainhoodhead"
+		},
+		"berethead": {
+			"order": 26,
+			"item": "berethead"
+		},
+		"glasses5head": {
+			"order": 27,
+			"item": "glasses5head"
+		},
+		"spacebirdhead": {
+			"order": 28,
+			"item": "spacebirdhead"
+		},
+		"skullmaskhead": {
+			"order": 29,
+			"item": "skullmaskhead"
+		},
+		"sombrerohead": {
+			"order": 30,
+			"item": "sombrerohead"
+		},
+		"ironavianhelmethead": {
+			"order": 31,
+			"item": "ironavianhelmethead"
+		},
+		"glasses3eyes": {
+			"order": 32,
+			"item": "glasses3eyes"
+		},
+		"tophathead": {
+			"order": 33,
+			"item": "tophathead"
+		},
+		"toptophathead": {
+			"order": 34,
+			"item": "toptophathead"
+		},
+		"ethnichead": {
+			"order": 35,
+			"item": "ethnichead"
+		},
+		"tvhelmethead": {
+			"order": 36,
+			"item": "tvhelmethead"
+		},
+		"ushankahead": {
+			"order": 37,
+			"item": "ushankahead"
+		},
+		"venetianmaskhead": {
+			"order": 38,
+			"item": "venetianmaskhead"
+		},
+		"wighead": {
+			"order": 39,
+			"item": "wighead"
+		},
+		"visorhead": {
+			"order": 40,
+			"item": "visorhead"
+		},
+		"winterscarfhead": {
+			"order": 41,
+			"item": "winterscarfhead"
+		}
+	}
+}
+
+
+
+
+
+
+
+

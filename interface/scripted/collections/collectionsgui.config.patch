@@ -1,0 +1,70 @@
+[
+	{
+		"op": "add",
+		"path": "/gui/collectionTabs/buttons/-",
+		"value": 
+		{
+                  "selected" : false,
+                 "position" : [4, 240],
+        "baseImage" : "/interface/scripted/collections/tab_armor_deselect.png",
+        "baseImageChecked" : "/interface/scripted/collections/tab_armor_select.png",
+        "pressedOffset" : [0, 0],
+        "data" : "armor"
+              }
+	},
+	{
+		"op": "replace",
+		"path": "/gui/collectionTabs/buttons/0/position",
+		"value": [4,214]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/collectionTabs/buttons/1/position",
+		"value": [4,188]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/collectionTabs/buttons/2/position",
+		"value": [4,162]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/collectionTabs/buttons/3/position",
+		"value": [4,136]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/collectionTabs/buttons/4/position",
+		"value": [4,110]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/collectionTabs/buttons/5/position",
+		"value": [4,84]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/selectLabel/position",
+		"value": [138, 268]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/emptyLabel/position",
+		"value": [138,252]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/close/position",
+		"value": [245,287]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/scrollArea/rect",
+		"value": [38,35,256,265]
+	},
+	{
+		"op": "replace",
+		"path": "/gui/scrollArea/children/collectionList/position",
+		"value": [1,277]
+	}
+]
