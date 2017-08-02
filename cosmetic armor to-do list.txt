@@ -1,0 +1,222 @@
+V = working					c = color fixed
+O = Yet to be tested
+X = Not working
+  = Yet to be implented
+
+###Legendary###
+
+///Hats///	(v)			-Gag Nose (c)
+-Bear hat (c)			-Greenfinger's Headdress(c)	-Plain Hood	(v)			-Ushanka (v)
+-Brewmasters Hat (c)	-Hard Hat (c)				-Sassy Beret (v)		-Venetian Mask (v)
+-Bunny hat (c)			-Hero's Cap	(c)				-Simple Glasses (v)		-Very Subtle Wig (v)
+-Cap (c)				-Hood with Ears	(c)			-Spacebird Helmet (v)	-Visor (v)
+-Captain's Cap	(c)		-Horse Head	(c)				-Skull Mask	(v)			-Winter Scarf (v)
+-Cardboard Hobo Hat(c)	-Huge glasses(c)			-Sombrero (v)
+-Cateye Glasses	(c)		-Industrial Crew Helmet(c)	-The Aerohelm (v)
+-Clock Tophat (c)		-Kitty Hat (c)				-Three-Eyed Glasses (v)
+						-Luchador Mask (c)			-Top Hat (v)
+-Fedora	(c)				-Mech Pilot Helmet (c)		-Top Top Hat (v)
+-Feather Headband (c)	-Monocle (c)				-Tribal Mask (v)
+-Gas Mask (c)			-Phrygian cap (c)			-T.V. Helmet (v)
+
+///Backer Reward///
+-Cool Shades		-Demon Horn Wig			-Dog Hat				-Dreadfull Skull
+-Electronium Hat	-Giant Bow				-Horned Tricorn			-Hot Top Hat
+-Monitor Helm		-Mug Hat				-Multicam Operator Cap	-Nerdy Meercat
+-Phoenix Circlet	-Plague Master Mask		-Plume Knight Helm		-Rusty Metal Skul
+-Soul Guise Helmet	-Sporty Cap				-Stargazer Hood			-The Captain's Fro
+-The Hrodgard		-The Un-Cat Hat			-Valkyrie Helm
+
+///Contest///
+-Corobockle		-Iron Scalpion			-Sensory Squid Hat	-Steampunk Helmet
+-The Boxman's Bodacity	-The Motivator			-Thinking Cap
+
+///Capes///
+-AA Battery pack	-Parachute			-Tribal Feathers
+
+///Cosmetic Sets///
+CHEF SET	COWBOY SET	DISGUISE SET		DRESS SET
+-Chef Hat	-Cowboy Hat	-Disguise Mask		-Blouse and Belt 
+-Chef Jacket	-Cowboy Jacket	-Disguise Chestpiece	-Pleated Skirt 
+-Chef Apron	-Cowboy Pants	-Disguise Trousers
+ELEGENT WEDDING	FAIRY SET	HOLIDAY SET	JUMP SUIT SET		MONEYBAGS SET
+-Elegant Wedding-Crown		-Holiday Hat	-Jump Suit Jacket	-Moneybags Hat
+ Top		-Dance Top	-Holiday Top	-Jump Suit Trousers	-Moneybags Tux
+-Elegant Wedding-Tutu		-Holiday Skirt				-Moneybags Tux Pants
+ Skirt		-Fairy Wings						-Moneybags Sack
+NEO SET		PENGUIN SUIT SET	PILOT SET		PIXEL HERO SET
+-Neo helmet	-Penguin Suit Mask	-Pilot Goggles		-Pixel Hero Shirt
+-Neo Chestpiece	-Penguin Suit Chest	-Pilot's Jacket		-Pixel Hero Pants
+-Neo Bottoms	-Penguin Suit Legs	-Pilot's Trousers	-Pixel Hero cape
+-Neo Disc				-Pilot's Backpack	
+SANTA SET		SMART SET	SPACE UNIFORM SET	SUMMER SET	STRAP SET
+-Holiday Beard Hat	-Smart Top	-Space Uniform Top	-Summer Top	-Strap Chest
+-Holiday Coat		-Smart Skirt	-Space Uniform Trousers	-Summer Dress	-Strap Legs
+-Holiday Trousers
+-Holiday Sack
+WEDDING SET
+-Wedding Veil
+-Wedding Dress
+-Wedding Skirt
+
+///Biome cosmetic sets///
+/
+
+///Dungeon cosmetic sets///
+PREMIER SET		SCIENTIST SET
+-Premier Helmet		-Scientist Glasses
+-Premier Chestpiece	-Scientist Coat
+-Premier Greaves	-Scientist Pants
+
+###Rare###
+
+///Hats///	
+-Alien Skull		-Bunny Mask			-Deep Diver Helmet	-Glitch Skull Mask		-Knight Helmet		-Safety Helmet
+-All-Seeing Helmet	-Cool Fez			-Diving Mask		-Gnome Cap				-M1 Helmet			-Fancy Hat 
+-Apex Anatomy Mask	-Dapper Hat			-Evil Mushroom Hat	-Gnome Hat				-M1 Medic Helmet
+-Avian Anatomy Mask	-Dark Guard Mask	-Floran Skull Mask	-Goat Skull Mask		-Mushroom Hat
+-Avian Skull Mask	-Deadbeat Helm		-Fluorescent Helmet	-House Hat				-Pipe Hat
+-Banana Mask		-Deadbeat Horn Helm	-Foundry Goggles	-Human Anatomy Mask		-Plague Doctor Mask
+-Bandit's Bandana	-Deadbeat Horn Mask	-Foundry Hard Hat	-Human Skull Mask		-Pyramid Head
+-Bandit's Hood		-Deadbeat Horns		-Frost Crown		-Hylotl Anatomy Mask	-Rainbow Hood
+-Berry Hat			-Deadbeat Mask		-Gladiator Helmet	-Hylotl Skull Mask		-Reed Hat
+-Building Hat		-Deadbeat Nerd Mask	-Glitch Crown		-Ice Cube Mask			-Rock Hat
+
+///Backer Reward Hats///
+/
+
+///Contest///
+-Benevolent Face Leech
+-Caustic Stag Helmet
+
+///Capes///
+-All-Seeing Cape	-Fire Lord's CLoak	-Purple Crayon			-Terrifying Wings
+-Avian God Wings	-Foundry Foreman Pack	-Quiver				-Tiger Tail
+-Back Spear		-Foundry Gear Pack	-Ragged Cape			-Toxic Flower Backpack
+-Bladed Wings		-Green Crayon		-Red Crayon			-Toxic Waste Back
+-Blue Crayon		-Jeff			-Shawl of Elation		-Turtle Shell
+-Boiler			-Orange Crayon		-Skeletal Wings			-Unstable Barrel
+-Butterfly Wings	-Oxygen Tank		-Stargazer Acolyte Wings	-Xenon Pack
+-Crystal Backpack	-Paper Wings		-Stargazer Priest Wings		-Yellow Crayon
+-Demon Wings		-Prehistoric Fur Tail	-Stargazer Prophet Wings
+-Flowery Vines		-Purple Crayon		-Survival Gear Backpack
+
+///Cosmetic Sets///
+/
+
+///Biome Cosmetic Sets///
+ALIEN ALPACA SET	ANATOMY SET			BUCCANEER SET		BUZZY SET	COPPER SET
+-Alien Alpaca Mask	-Human Anatomy Mask (see hats)	-Tricorne Hat		-Buzzy Hat	-Copper Goggles
+-Alien Alpaca Sweater	-Anatomy Shirt			-Buccaneer Coat		-Buzzy Shirt	-Copper Chestpiece
+-Alien Alpaca Legs					-Buccaneer Pantaloons	-Buzzy Trousers	-Copper Greaves
+										-Buzzy Wings
+CREEPLING SET		CYCLOPS YETI SET	DARK DISGUISE SET		DEADBEAT STRAPS			DEADBEAT SPANDEX
+-Creepling Mask		-Cyclops Yeti Mask	-Dark Disguise Mask		-Deadbeat Straps		-Deadbeat Spandex Jacket
+-Creepling Chestpiece	-Cyclops Yeti SHirt	-Dark Disguise Shirt		-Deadbeat Straps Trousers	-Deadbeat Tight Trousers
+-Creepling Trousers	-Cyclops Yeti Trousers	-Dark Disguise Trousers
+
+DEADBEAT LEATHER	 DESERT SET		EYEBALL SET	FLOWERY SET	  FIRE LORD'S SET
+-Deadbeat Leather Jacket -Desert Head Scarf	-Eyeball Mask	-Flowery Mask	  -Fire Lord's Helm
+-Deadbeat Tough Trousers -Desert Cloak		-Eyeball Shirt	-Flowery Shirt	  -Fire Lord's Breastplate
+			 -Desert Trousers	-Eyeball Skirt	-Flowery Trousers -Fire Lord's Greaves
+						-Optic Nerve	-Flowery Vines
+
+FOUNDRY SET		GEODE SET		GLOW SET	HAWAIIAN SET		HAZMAT SET
+-Foundry Hard Hat	-Geode Mask		-Glow Mask	-Hawaiian Flower Crown	-Hazmat Mask
+-Foundry Chestpiece	-Geode Shirt		-Glow Suit	-Hawaiian Chest		-Hazmat Shirt
+-Foundry Legs		-Geode Trousers		-Glow Trousers	-Hawaiian Skirt		-Hazmat Trousers
+-Foundry Gear Pack									-Hazmat Airtank
+
+HIKER SET		HUNTER SET		ICE ARMOR SET		LAGOON SET		LARVA SET
+-Hiker Jacket		-Hunter Jacket		-Ice Armor Mask		-Lagoon Mask		-Larva Mask
+-Hiker Trousers		-Hunter's Trousers	-Ice Armor Shirt	-Lagoon Chestpiece	-Larva Chest
+-Hiker Backpack		-Hunter's Knife		-Ice Armor Trousers	-Lagoon Trousers	-Larva Legs
+
+MUTANT SET		PREHISTORIC SET			PRISM SET	RAINBOW WOOD SET	ROCK SET
+-Mutant Head		-Sabertooth Helm		-Prism Helmet	-Rainbow Wood Helmet	-Rock Head
+-Mutant Chest		-Prehistoric Woolly Coat	-Prism Shirt	-Rainbow Wood Shirt	-Rock Chest
+-Mutant Legs		-Prehistoric Woolly Pants	-Prism Trousers -Rainbow wood Trousers	-Rock Trousers
+-Mutagen Back Pipe	-Prehistoric Fur Tail
+
+SNOW INFANTRY		SLIME SET	STEAMSRPING SET		TAR SET		TOUGH SET
+-Snow Infantry Helmet	-Slime Mask	-Pipe Hat		-Tar Mask	-Tough Headband
+-SNow Infantry Chest	-Slime Shirt	-Neck Ruffle Jacket	-Tar Shirt	-Tough Chest
+-Snow Infantry Trousers -Slime Trousers	-Warm Grey Trousers	-Tar Trousers	-Tough Trousers
+					-Boiler
+
+WILD FUNGUS SET
+-Wild Fungus Cap
+-Wild Fungus Rags
+-Wild Fungus Skirt
+
+///Dungeon Cosmetic Sets///
+EXECUTIONER'S SET	PIRATE SET		
+-Executioner's Mask	-Pirate Bandana
+-Executioner's Gloves	-Pirate Jacket
+			-Pirate Pantaloons
+			-Pirate Barrel
+
+###Uncommon###
+
+///Hats///
+-Insidious Mask
+-Jester's Hat
+-Snorkel
+
+///Backer Reward Hat///
+/
+
+///Contest Hats///
+/
+
+///Capes///
+-Halogen Pack	
+
+
+
+///Cosmetic Sets///
+/
+
+///Biome Cosmetic Sets///
+/
+
+//Dungeon Cosmetic Sets///
+SPACESUIT SET		MINER'S SET	  PREDATORY SET		VALOROUS SET
+-Space Helmet		-Miner's Helmet	  -Predatory Helmet	-Valorous Helmet
+-Spacesuit Chest	-High-Vis Jacket  -Predatory Chest	-Valorous Chestpiece
+-Spacesuit Trousers			  -Predatory Trousers	-Valorous Greaves
+-Spacesuit Backpack			  -Predatory Back
+
+MINIKNOG SET		WIZARD SET
+-Miniknog Helmet	-Wizard Hat
+-Miniknog Chest		-Wizard Robe Top
+-Miniknog Greaves	-Wizard Robe Bottoms
+			-Magic Scroll
+
+###Common###
+///Hats///
+-Beehive		-Handy Space Helmet
+-Cardboard Hat		-Minig Helmet
+-Dastardly Eyepatch	-Neat Welder's Helmet
+-Floppy Fancy Hat	-Protectorate Flower
+
+///Backer Reward Hats///
+/
+
+///Contest Hats///
+-Pink-Eye Parasite
+
+///Capes///	
+-Dark Cape	-Short Cape	-Torn Protectorate Cape
+-Lantern Stick	-Simple Cape
+
+///Cosmetic Sets///
+CULTIST SET		PROTECTORATE SET
+-Cultist Hood		-Protectorate Shirt
+-Cultist Chestpiece	-Protectorate Trousers
+-Cultist Leg Armour
+
+///Biome cosmetic sets///
+/
+
+///Dungeon Cosmetic Sets///
