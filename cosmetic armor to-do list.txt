@@ -5,26 +5,26 @@ X = Not working
 
 ###Legendary###
 
-///Hats///	(v)			-Gag Nose (c)
--Bear hat (c)			-Greenfinger's Headdress(c)	-Plain Hood	(v)			-Ushanka (v)
--Brewmasters Hat (c)	-Hard Hat (c)				-Sassy Beret (v)		-Venetian Mask (v)
--Bunny hat (c)			-Hero's Cap	(c)				-Simple Glasses (v)		-Very Subtle Wig (v)
--Cap (c)				-Hood with Ears	(c)			-Spacebird Helmet (v)	-Visor (v)
--Captain's Cap	(c)		-Horse Head	(c)				-Skull Mask	(v)			-Winter Scarf (v)
--Cardboard Hobo Hat(c)	-Huge glasses(c)			-Sombrero (v)
--Cateye Glasses	(c)		-Industrial Crew Helmet(c)	-The Aerohelm (v)
--Clock Tophat (c)		-Kitty Hat (c)				-Three-Eyed Glasses (v)
-						-Luchador Mask (c)			-Top Hat (v)
--Fedora	(c)				-Mech Pilot Helmet (c)		-Top Top Hat (v)
--Feather Headband (c)	-Monocle (c)				-Tribal Mask (v)
--Gas Mask (c)			-Phrygian cap (c)			-T.V. Helmet (v)
+///Hats///	(v)	-Gag Nose (c)
+-Bear hat (c)		-Greenfinger's Headdress(c)	-Plain Hood (v)			-Ushanka (v)
+-Brewmasters Hat (c)	-Hard Hat (c)			-Sassy Beret (v)		-Venetian Mask (v)
+-Bunny hat (c)		-Hero's Cap (c)			-Simple Glasses (v)		-Very Subtle Wig (v)
+-Cap (c)		-Hood with Ears	(c)		-Spacebird Helmet (v)		-Visor (v)
+-Captain's Cap	(c)	-Horse Head (c)			-Skull Mask (v)			-Winter Scarf (v)
+-Cardboard Hobo Hat(c)	-Huge glasses(c)		-Sombrero (v)
+-Cateye Glasses	(c)	-Industrial Crew Helmet(c)	-The Aerohelm (v)
+-Clock Tophat (c)	-Kitty Hat (c)			-Three-Eyed Glasses (v)
+			-Luchador Mask (c)		-Top Hat (v)
+-Fedora	(c)		-Mech Pilot Helmet (c)		-Top Top Hat (v)
+-Feather Headband (c)	-Monocle (c)			-Tribal Mask (v)
+-Gas Mask (c)		-Phrygian cap (c)		-T.V. Helmet (v)
 
 ///Backer Reward///
--Cool Shades		-Demon Horn Wig			-Dog Hat				-Dreadfull Skull
--Electronium Hat	-Giant Bow				-Horned Tricorn			-Hot Top Hat
--Monitor Helm		-Mug Hat				-Multicam Operator Cap	-Nerdy Meercat
+-Cool Shades		-Demon Horn Wig			-Dog Hat			-Dreadfull Skull
+-Electronium Hat	-Giant Bow			-Horned Tricorn			-Hot Top Hat
+-Monitor Helm		-Mug Hat			-Multicam Operator Cap		-Nerdy Meercat
 -Phoenix Circlet	-Plague Master Mask		-Plume Knight Helm		-Rusty Metal Skul
--Soul Guise Helmet	-Sporty Cap				-Stargazer Hood			-The Captain's Fro
+-Soul Guise Helmet	-Sporty Cap			-Stargazer Hood			-The Captain's Fro
 -The Hrodgard		-The Un-Cat Hat			-Valkyrie Helm
 
 ///Contest///
