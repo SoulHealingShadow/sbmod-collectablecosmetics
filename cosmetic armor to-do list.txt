@@ -6,18 +6,18 @@ X = Not working
 ###Legendary###
 
 ///Hats///	(v)	-Gag Nose (c)
--Bear hat (c)		-Greenfinger's Headdress(c)	-Plain Hood (v)			-Ushanka (v)
--Brewmasters Hat (c)	-Hard Hat (c)			-Sassy Beret (v)		-Venetian Mask (v)
--Bunny hat (c)		-Hero's Cap (c)			-Simple Glasses (v)		-Very Subtle Wig (v)
--Cap (c)		-Hood with Ears	(c)		-Spacebird Helmet (v)		-Visor (v)
--Captain's Cap	(c)	-Horse Head (c)			-Skull Mask (v)			-Winter Scarf (v)
--Cardboard Hobo Hat(c)	-Huge glasses(c)		-Sombrero (v)
--Cateye Glasses	(c)	-Industrial Crew Helmet(c)	-The Aerohelm (v)
--Clock Tophat (c)	-Kitty Hat (c)			-Three-Eyed Glasses (v)
-			-Luchador Mask (c)		-Top Hat (v)
--Fedora	(c)		-Mech Pilot Helmet (c)		-Top Top Hat (v)
--Feather Headband (c)	-Monocle (c)			-Tribal Mask (v)
--Gas Mask (c)		-Phrygian cap (c)		-T.V. Helmet (v)
+-Bear hat (c)		-Greenfinger's Headdress(c)	-Plain Hood (c)			-Ushanka (c)
+-Brewmasters Hat (c)	-Hard Hat (c)			-Sassy Beret (c)		-Venetian Mask (c)
+-Bunny hat (c)		-Hero's Cap (c)			-Simple Glasses (c)		-Very Subtle Wig (c)
+-Cap (c)		-Hood with Ears	(c)		-Spacebird Helmet (c)		-Visor (c)
+-Captain's Cap	(c)	-Horse Head (c)			-Skull Mask (c)			-Winter Scarf (c)
+-Cardboard Hobo Hat(c)	-Huge glasses(c)		-Sombrero (c)
+-Cateye Glasses	(c)	-Industrial Crew Helmet(c)	-The Aerohelm (c)
+-Clock Tophat (c)	-Kitty Hat (c)			-Three-Eyed Glasses (c)
+			-Luchador Mask (c)		-Top Hat (c)
+-Fedora	(c)		-Mech Pilot Helmet (c)		-Top Top Hat (c)
+-Feather Headband (c)	-Monocle (c)			-Tribal Mask (c)
+-Gas Mask (c)		-Phrygian cap (c)		-T.V. Helmet (c)
 
 ///Backer Reward///
 -Cool Shades		-Demon Horn Wig			-Dog Hat			-Dreadfull Skull
