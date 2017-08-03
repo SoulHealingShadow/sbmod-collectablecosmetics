@@ -169,7 +169,45 @@
 		"winterscarfhead": {
 			"order": 41,
 			"item": "winterscarfhead"
+		},
+	//Backer Reward
+		"coolshadeshead": {
+			"order": 42,
+			"item": "coolshadeshead"
+		},
+		"electroniumhat": {
+			"order": 43,
+			"item": "electroniumhat"
+		},
+		"monitorhead": {
+			"order": 44,
+			"item": "monitorhead"			
+		},
+		"phoenixhat": {
+			"order": 45,
+			"item": "phoenixhat"
+		},
+		"soulguise": {
+			"order": 46,
+			"item": "soulguise"
+		},
+		"thehrodgardhead": {
+			"order": 47,
+			"item": "thehrodgardhead"
+		},
+		"demonhornshead": {
+			"order": 49,
+			"item": "demonhornshead"
+		},
+		"giantbowhead": {
+			"order": 50,
+			"item": "giantbowhead"
+		},
+		"mughathead": {
+			"order": 51,
+			"item": "mughathead"
 		}
+
 	}
 }
 
