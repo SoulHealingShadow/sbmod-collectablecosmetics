@@ -206,6 +206,62 @@
 		"mughathead": {
 			"order": 51,
 			"item": "mughathead"
+		},
+		"plaguemasterhead": {
+			"order": 52,
+			"item": "plaguemasterhead"
+		},
+		"fancaphead": {
+			"order": 53,
+			"item": "fancaphead"
+		},
+		"uncathat": {
+			"order": 54,
+			"item": "uncathat"
+		},
+		"doghathead": {
+			"order": 55,
+			"item": "doghathead"
+		},
+		"tricornhat": {
+			"order": 56,
+			"item": "tricornhat"
+		},
+		"multicamhat": {
+			"order": 57,
+			"item": "multicamhat"
+		},
+		"plumeknighthead": {
+			"order": 58,
+			"item": "plumeknighthead"
+		},
+		"stargazer": {
+			"order": 59,
+			"item": "stargazer"
+		},
+		"valkyriehelm": {
+			"order": 60,
+			"item": "valkyriehelm"
+		},
+		"dreadfulskullhead": {
+			"order": 61,
+			"item": "dreadfulskullhead"
+		},
+		"hottophathead": {
+			"order": 62,
+			"item": "hottophathead"
+		},
+		"meercaphead": {
+			"order": 63,
+			"item": "meercaphead"
+		},
+		"rustyskul": {
+			"order": 64,
+			"item": "rustyskul"
+		},
+		"afrowighead": {
+			"order": 65,
+			"item": "afrowighead"
 		}
 
 	}
