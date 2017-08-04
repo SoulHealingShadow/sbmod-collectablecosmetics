@@ -1,0 +1,37 @@
+[
+	{
+		"op": "add",
+		"path": "/collectablesOnPickup",
+		"value": {"armor": "dreadfulskullhead"}
+	},
+	{
+		"op": "replace",
+		"path": "/colorOptions",
+		"value": [
+			// BONE
+			{ "e9e8e4" : "e9e8e4", "bfbaae" : "bfbaae", "7c7562" : "7c7562", "3d3a31" : "3d3a31" },
+			// BLACK
+			{ "e9e8e4" : "838383", "bfbaae" : "555555", "7c7562" : "383838", "3d3a31" : "151515" },
+			// GREY
+			{ "e9e8e4" : "b5b5b5", "bfbaae" : "808080", "7c7562" : "555555", "3d3a31" : "303030" },
+			// WHITE
+			{ "e9e8e4" : "e6e6e6", "bfbaae" : "b6b6b6", "7c7562" : "7b7b7b", "3d3a31" : "373737" },
+			// RED
+			{ "e9e8e4" : "f4988c", "bfbaae" : "d93a3a", "7c7562" : "932625", "3d3a31" : "601119" },
+			// ORANGE
+			{ "e9e8e4" : "ffd495", "bfbaae" : "ea9931", "7c7562" : "af4e00", "3d3a31" : "6e2900" },
+			// YELLOW
+			{ "e9e8e4" : "ffffa7", "bfbaae" : "e2c344", "7c7562" : "a46e06", "3d3a31" : "642f00" },
+			// GREEN
+			{ "e9e8e4" : "b2e89d", "bfbaae" : "51bd3b", "7c7562" : "247824", "3d3a31" : "144216" },
+			// BLUE
+			{ "e9e8e4" : "96cbe7", "bfbaae" : "5588d4", "7c7562" : "344495", "3d3a31" : "1a1c51" },
+			// PURPLE
+			{ "e9e8e4" : "d29ce7", "bfbaae" : "a451c4", "7c7562" : "6a2284", "3d3a31" : "320c40" },
+			// PINK
+			{ "e9e8e4" : "eab3db", "bfbaae" : "d35eae", "7c7562" : "97276d", "3d3a31" : "59163f" },
+			// BROWN
+			{ "e9e8e4" : "ccae7c", "bfbaae" : "a47844", "7c7562" : "754c23", "3d3a31" : "472b13" }
+		  ]
+	}
+]

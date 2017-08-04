@@ -1,0 +1,37 @@
+[
+	{
+		"op": "add",
+		"path": "/collectablesOnPickup",
+		"value": {"armor": "multicamhat"}
+	},
+	{
+		"op": "replace",
+		"path": "/colorOptions",
+		"value": [
+			// LIME GREEN
+			{ "d1e160" : "d1e160", "9bba3d" : "9bba3d", "48832f" : "48832f", "1b4c2a" : "1b4c2a" },
+			// BLACK
+			{ "d1e160" : "838383", "9bba3d" : "555555", "48832f" : "383838", "1b4c2a" : "151515" },
+			// GREY
+			{ "d1e160" : "b5b5b5", "9bba3d" : "808080", "48832f" : "555555", "1b4c2a" : "303030" },
+			// WHITE
+			{ "d1e160" : "e6e6e6", "9bba3d" : "b6b6b6", "48832f" : "7b7b7b", "1b4c2a" : "373737" },
+			// RED
+			{ "d1e160" : "f4988c", "9bba3d" : "d93a3a", "48832f" : "932625", "1b4c2a" : "601119" },
+			// ORANGE
+			{ "d1e160" : "ffd495", "9bba3d" : "ea9931", "48832f" : "af4e00", "1b4c2a" : "6e2900" },
+			// YELLOW
+			{ "d1e160" : "ffffa7", "9bba3d" : "e2c344", "48832f" : "a46e06", "1b4c2a" : "642f00" },
+			// GREEN
+			{ "d1e160" : "b2e89d", "9bba3d" : "51bd3b", "48832f" : "247824", "1b4c2a" : "144216" },
+			// BLUE
+			{ "d1e160" : "96cbe7", "9bba3d" : "5588d4", "48832f" : "344495", "1b4c2a" : "1a1c51" },
+			// PURPLE
+			{ "d1e160" : "d29ce7", "9bba3d" : "a451c4", "48832f" : "6a2284", "1b4c2a" : "320c40" },
+			// PINK
+			{ "d1e160" : "eab3db", "9bba3d" : "d35eae", "48832f" : "97276d", "1b4c2a" : "59163f" },
+			// BROWN
+			{ "d1e160" : "ccae7c", "9bba3d" : "a47844", "48832f" : "754c23", "1b4c2a" : "472b13" }
+		  ]
+	}
+]
