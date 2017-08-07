@@ -262,6 +262,39 @@
 		"afrowighead": {
 			"order": 65,
 			"item": "afrowighead"
+		},
+	//Contest
+		"corobocklehead": {
+			"order": 66,
+			"item": "corobocklehead"
+		},
+		"boxmanhathead": {
+			"order": 67,
+			"item": "boxmanhathead"
+		},
+		"scalpionhead": {
+			"order": 68,
+			"item": "scalpionhead"
+		},
+		"carrothathead": {
+			"order": 69,
+			"item": "carrothathead"
+		},
+		"sensorysquidhathead": {
+			"order": 70,
+			"item": "sensorysquidhathead"
+		},
+		"thinkingcaphead": {
+			"order": 71,
+			"item": "thinkingcaphead"
+		},
+		"steampunkhead": {
+			"order": 72,
+			"item": "steampunkhead"
+		},
+		"pinkeyeparasitehead": {
+			"order": 73,
+			"item": "pinkeyeparasitehead"
 		}
 
 	}
