@@ -20,16 +20,16 @@ X = Not working
 -Gas Mask (c)		-Phrygian cap (c)		-T.V. Helmet (c)
 
 ///Backer Reward///
--Cool Shades		-Demon Horn Wig			-Dog Hat			-Dreadfull Skull
--Electronium Hat	-Giant Bow			-Horned Tricorn			-Hot Top Hat
--Monitor Helm		-Mug Hat			-Multicam Operator Cap		-Nerdy Meercat
--Phoenix Circlet	-Plague Master Mask		-Plume Knight Helm		-Rusty Metal Skul
--Soul Guise Helmet	-Sporty Cap			-Stargazer Hood			-The Captain's Fro
--The Hrodgard		-The Un-Cat Hat			-Valkyrie Helm
+-Cool Shades (c) 	-Demon Horn Wig (c)		-Dog Hat (c)			-Dreadfull Skull (c)
+-Electronium Hat (c)	-Giant Bow (c)			-Horned Tricorn (c)		-Hot Top Hat (c)
+-Monitor Helm (c)	-Mug Hat (c)			-Multicam Operator Cap (c)	-Nerdy Meercat (c)
+-Phoenix Circlet (c)	-Plague Master Mask (c)		-Plume Knight Helm (c)		-Rusty Metal Skul (c)
+-Soul Guise Helmet (c)	-Sporty Cap (c)			-Stargazer Hood (c)		-The Captain's Fro (c)
+-The Hrodgard (c)	-The Un-Cat Hat	 (c)		-Valkyrie Helm (c)
 
 ///Contest///
--Corobockle		-Iron Scalpion			-Sensory Squid Hat	-Steampunk Helmet
--The Boxman's Bodacity	-The Motivator			-Thinking Cap
+-Corobockle (c)			-Iron Scalpion	(c)		-Sensory Squid Hat (c)	-Steampunk Helmet (c)
+-The Boxman's Bodacity (c)	-The Motivator	(c)		-Thinking Cap (c)
 
 ///Capes///
 -AA Battery pack	-Parachute			-Tribal Feathers
