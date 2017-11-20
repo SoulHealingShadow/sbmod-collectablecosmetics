@@ -381,7 +381,18 @@
 			"item": "fairyback"
 		},
 		//Holiday
-		""
+		"hotholidayhead": {
+			"order": 93,
+			"item": "hotholidayhead"
+		},
+		"hotholidaychest": {
+			"order": 94,
+			"item": "hotholidaychest"
+		},
+		"hotholidaypants": {
+			"order": 95,
+			"item": "hotholidaypants"
+		}
 		
 	}
 }
