@@ -295,8 +295,105 @@
 		"pinkeyeparasitehead": {
 			"order": 73,
 			"item": "pinkeyeparasitehead"
+		},
+	//Capes
+		"batterypackAAback": {
+			"order": 74,
+			"item": "batterypackAAback"
+		},
+		"parachutepackback": {
+			"order": 75,
+			"item": "parachutepackback"
+		},
+	//Cosmetic sets
+		//Chef
+		"chefhead": {
+			"order": 76,
+			"item": "chefhead"
+		},
+		"chefchest": {
+			"order": 77,
+			"item": "chefchest"
+		},
+		"cheflegs": {
+			"order": 78,
+			"item": "cheflegs"
+		},
+		//Cowboy
+		"cowboyhead": {
+			"order": 79,
+			"item": "cowboyhead"
+		},
+		"cowboychest": {
+			"order": 80,
+			"item": "cowboychest"
+		},
+		"cowboylegs": {
+			"order": 81,
+			"item": "cowboylegs"
+		},
+		//Disguise
+		"bettyhead": {
+			"order": 82,
+			"item": "bettyhead"
+		},
+		"bettychest": {
+			"order": 83,
+			"item": "bettychest"
+		},
+		"bettylegs": {
+			"order": 84,
+			"item": "bettylegs"
+		},
+		//Dress
+		"dress1chest": {
+			"order": 85,
+			"item": "dress1chest"
+		},
+		"dress1legs": {
+			"order": 86,
+			"item": "dress1legs"
+		},
+		//Elegant Wedding
+		"wedding1chest": {
+			"order": 87,
+			"item": "wedding1chest"
+		},
+		"wedding1legs": {
+			"order": 88,
+			"item": "wedding1legs"
+		},
+		//Fairy
+		"fairyhead": {
+			"order": 89,
+			"item": "fairyhead"
+		},
+		"fairychest": {
+			"order": 90,
+			"item": "fairychest"
+		},
+		"fairylegs": {
+			"order": 91,
+			"item": "fairylegs"
+		},
+		"fairyback": {
+			"order": 92,
+			"item": "fairyback"
+		},
+		//Holiday
+		"hotholidayhead": {
+			"order": 93,
+			"item": "hotholidayhead"
+		},
+		"hotholidaychest": {
+			"order": 94,
+			"item": "hotholidaychest"
+		},
+		"hotholidaypants": {
+			"order": 95,
+			"item": "hotholidaypants"
 		}
-
+		
 	}
 }
 

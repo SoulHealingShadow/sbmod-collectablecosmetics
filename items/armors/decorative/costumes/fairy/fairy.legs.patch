@@ -1,0 +1,37 @@
+[
+	{
+		"op": "add",
+		"path": "/collectablesOnPickup",
+		"value": {"armor": "fairylegs"}
+	},
+	{
+		"op": "replace",
+		"path": "/colorOptions",
+		"value": [
+			// PINK
+			{ "eab3db" : "eab3db", "d35eae" : "d35eae", "97276d" : "97276d", "59163f" : "59163f" },
+			// BLACK
+			{ "eab3db" : "838383", "d35eae" : "555555", "97276d" : "383838", "59163f" : "151515" },
+			// GREY
+			{ "eab3db" : "b5b5b5", "d35eae" : "808080", "97276d" : "555555", "59163f" : "303030" },
+			// WHITE
+			{ "eab3db" : "e6e6e6", "d35eae" : "b6b6b6", "97276d" : "7b7b7b", "59163f" : "373737" },
+			// RED
+			{ "eab3db" : "f4988c", "d35eae" : "d93a3a", "97276d" : "932625", "59163f" : "601119" },
+			// ORANGE
+			{ "eab3db" : "ffd495", "d35eae" : "ea9931", "97276d" : "af4e00", "59163f" : "6e2900" },
+			// YELLOW
+			{ "eab3db" : "ffffa7", "d35eae" : "e2c344", "97276d" : "a46e06", "59163f" : "642f00" },
+			// GREEN
+			{ "eab3db" : "b2e89d", "d35eae" : "51bd3b", "97276d" : "247824", "59163f" : "144216" },
+			// BLUE
+			{ "eab3db" : "96cbe7", "d35eae" : "5588d4", "97276d" : "344495", "59163f" : "1a1c51" },
+			// PURPLE
+			{ "eab3db" : "d29ce7", "d35eae" : "a451c4", "97276d" : "6a2284", "59163f" : "320c40" },
+			// PINK
+			{ "eab3db" : "eab3db", "d35eae" : "d35eae", "97276d" : "97276d", "59163f" : "59163f" },
+			// BROWN
+			{ "eab3db" : "ccae7c", "d35eae" : "a47844", "97276d" : "754c23", "59163f" : "472b13" }
+		  ]
+	}
+]
